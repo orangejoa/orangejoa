@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+// 깃허브 꾸미기
+<a href="버튼을 눌렀을 때 이동할 링크" target="_blank">
+  <img src="https://img.shields.io/badge/instagram-#E4405F?style=plastic&logo=instagram&logoColor=white"/>
+</a>
