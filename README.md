@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 <!-- logo notion -->
 <a href="https://www.notion.so/f25a44943c524cfba30ccdc4a0d89915" target="_blank">
-  <img src="https://img.shields.io/badge/instagram-08088A?style=plastic&logo=instagram&logoColor=white"/>
+  <img src="https://img.shields.io/badge/notion-08088A?style=plastic&logo=notion&logoColor=white"/>
 </a>
 
 <!-- logo  -->
