@@ -15,7 +15,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!-- log -->
+<!-- logo instagram -->
+<a href="버튼을 눌렀을 때 이동할 링크" target="_blank">
+  <img src="https://img.shields.io/badge/instagram-E4405F?style=plastic&logo=instagram&logoColor=white"/>
+</a>
+
+<!-- logo notion -->
+<a href="https://www.notion.so/f25a44943c524cfba30ccdc4a0d89915" target="_blank">
+  <img src="https://img.shields.io/badge/instagram-08088A?style=plastic&logo=instagram&logoColor=white"/>
+</a>
+
+<!-- logo  -->
 <a href="버튼을 눌렀을 때 이동할 링크" target="_blank">
   <img src="https://img.shields.io/badge/instagram-E4405F?style=plastic&logo=instagram&logoColor=white"/>
 </a>
