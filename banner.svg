@@ -1,0 +1,27 @@
+<svg width="900" height="160" viewBox="0 0 900 160" xmlns="http://www.w3.org/2000/svg">
+  <rect width="900" height="160" fill="#0d1117"/>
+
+  <!-- subtle grid dots -->
+  <pattern id="dots" x="0" y="0" width="32" height="32" patternUnits="userSpaceOnUse">
+    <circle cx="1" cy="1" r="1" fill="rgba(88,166,255,0.08)"/>
+  </pattern>
+  <rect width="900" height="160" fill="url(#dots)"/>
+
+  <!-- accent glow -->
+  <ellipse cx="450" cy="80" rx="300" ry="60" fill="rgba(88,166,255,0.04)"/>
+
+  <!-- name -->
+  <text x="450" y="72" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif"
+        font-size="36" font-weight="700" fill="#e6edf3" text-anchor="middle" letter-spacing="-0.5">
+    orangejoa
+  </text>
+
+  <!-- subtitle -->
+  <text x="450" y="104" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif"
+        font-size="14" font-weight="400" fill="#8b949e" text-anchor="middle" letter-spacing="0.5">
+    Full-Stack Developer  ·  React  ·  TypeScript  ·  Java
+  </text>
+
+  <!-- bottom accent line -->
+  <line x1="360" y1="128" x2="540" y2="128" stroke="#58a6ff" stroke-width="1" stroke-opacity="0.3"/>
+</svg>
