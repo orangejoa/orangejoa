@@ -34,12 +34,9 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=orangejoa&show_icons=true&theme=github_dark&hide_border=true&bg_color=000000&title_color=58a6ff&icon_color=58a6ff)](https://github.com/orangejoa)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=orangejoa&theme=github-dark-blue&hide_border=true&background=000000&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff)](https://github.com/orangejoa)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=orangejoa&layout=compact&theme=github_dark&hide_border=true&bg_color=000000&title_color=58a6ff)](https://github.com/orangejoa)
-
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=orangejoa&show_icons=true&theme=github_dark&hide_border=true&bg_color=000000&title_color=58a6ff&icon_color=58a6ff&card_width=250"/>
+<img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=orangejoa&theme=github-dark-blue&hide_border=true&background=000000&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff"/>
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=orangejoa&layout=compact&theme=github_dark&hide_border=true&bg_color=000000&title_color=58a6ff&card_width=250"/>
 </div>
 
 ---
