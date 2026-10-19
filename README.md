@@ -4,7 +4,7 @@
 
 ![Visitor](https://komarev.com/ghpvc/?username=orangejoa&color=D97757&style=flat-square&label=Profile+Views)
 &nbsp;
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=D97757)](https://orange-private.github.io/orangejoa.github.io/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=D97757)](https://orange-private.github.io/private_orangejoa.github.io/)
 [![Email](https://img.shields.io/badge/Email-000000?style=flat-square&logo=gmail&logoColor=EA4335)](mailto:orangesore@gmail.com)
 
 </div>
