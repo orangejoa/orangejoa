@@ -15,19 +15,19 @@
 ### 🛠 Tech Stack
 
 **Frontend**
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Vue](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=61DAFB)
+![Vue](https://img.shields.io/badge/Vue.js-000000?style=flat-square&logo=vuedotjs&logoColor=4FC08D)
+![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=3178C6)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=F7DF1E)
 
 **Backend**
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
-![Struts](https://img.shields.io/badge/Struts-ED8B00?style=flat-square&logo=apache&logoColor=white)
+![Java](https://img.shields.io/badge/Java-000000?style=flat-square&logo=openjdk&logoColor=ED8B00)
+![Spring](https://img.shields.io/badge/Spring-000000?style=flat-square&logo=spring&logoColor=6DB33F)
+![Struts](https://img.shields.io/badge/Struts-000000?style=flat-square&logo=apache&logoColor=D22128)
 
 **Tools**
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=white)
 
 ---
 
@@ -35,10 +35,10 @@
 
 <div align="center">
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=orangejoa&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff)](https://github.com/orangejoa)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=orangejoa&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff)](https://github.com/orangejoa)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=orangejoa&show_icons=true&theme=github_dark&hide_border=true&bg_color=000000&title_color=58a6ff&icon_color=58a6ff)](https://github.com/orangejoa)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=orangejoa&theme=github-dark-blue&hide_border=true&background=000000&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff)](https://github.com/orangejoa)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=orangejoa&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff)](https://github.com/orangejoa)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=orangejoa&layout=compact&theme=github_dark&hide_border=true&bg_color=000000&title_color=58a6ff)](https://github.com/orangejoa)
 
 </div>
 
