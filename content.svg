@@ -1,0 +1,109 @@
+<svg width="900" height="420" viewBox="0 0 900 420" xmlns="http://www.w3.org/2000/svg">
+  <rect width="900" height="420" fill="#000000"/>
+
+  <!-- dot grid -->
+  <pattern id="d" x="0" y="0" width="32" height="32" patternUnits="userSpaceOnUse">
+    <circle cx="1" cy="1" r="0.8" fill="rgba(217,119,87,0.07)"/>
+  </pattern>
+  <rect width="900" height="420" fill="url(#d)"/>
+
+  <!-- ── TECH STACK ── -->
+  <text x="40" y="44" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif"
+        font-size="10" font-weight="600" fill="#D97757" letter-spacing="2" text-transform="uppercase">TECH STACK</text>
+  <line x1="40" y1="52" x2="860" y2="52" stroke="rgba(255,255,255,0.06)" stroke-width="1"/>
+
+  <!-- Frontend label -->
+  <text x="40" y="82" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif"
+        font-size="10" fill="#666" letter-spacing="1">FRONTEND</text>
+
+  <!-- React badge -->
+  <rect x="40" y="92" width="72" height="24" rx="4" fill="#111" stroke="rgba(255,255,255,0.1)" stroke-width="1"/>
+  <text x="56" y="108" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="11" fill="#61DAFB">React</text>
+  <circle cx="48" cy="104" r="3" fill="#61DAFB"/>
+
+  <!-- Vue badge -->
+  <rect x="120" y="92" width="72" height="24" rx="4" fill="#111" stroke="rgba(255,255,255,0.1)" stroke-width="1"/>
+  <text x="136" y="108" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="11" fill="#4FC08D">Vue.js</text>
+  <circle cx="128" cy="104" r="3" fill="#4FC08D"/>
+
+  <!-- TypeScript badge -->
+  <rect x="200" y="92" width="90" height="24" rx="4" fill="#111" stroke="rgba(255,255,255,0.1)" stroke-width="1"/>
+  <text x="216" y="108" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="11" fill="#3178C6">TypeScript</text>
+  <circle cx="208" cy="104" r="3" fill="#3178C6"/>
+
+  <!-- JavaScript badge -->
+  <rect x="298" y="92" width="90" height="24" rx="4" fill="#111" stroke="rgba(255,255,255,0.1)" stroke-width="1"/>
+  <text x="314" y="108" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="11" fill="#F7DF1E">JavaScript</text>
+  <circle cx="306" cy="104" r="3" fill="#F7DF1E"/>
+
+  <!-- HTML/CSS badge -->
+  <rect x="396" y="92" width="72" height="24" rx="4" fill="#111" stroke="rgba(255,255,255,0.1)" stroke-width="1"/>
+  <text x="412" y="108" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="11" fill="#E34F26">HTML/CSS</text>
+  <circle cx="404" cy="104" r="3" fill="#E34F26"/>
+
+  <!-- Backend label -->
+  <text x="40" y="146" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif"
+        font-size="10" fill="#666" letter-spacing="1">BACKEND</text>
+
+  <!-- Java badge -->
+  <rect x="40" y="156" width="60" height="24" rx="4" fill="#111" stroke="rgba(255,255,255,0.1)" stroke-width="1"/>
+  <text x="56" y="172" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="11" fill="#ED8B00">Java</text>
+  <circle cx="48" cy="168" r="3" fill="#ED8B00"/>
+
+  <!-- Spring badge -->
+  <rect x="108" y="156" width="72" height="24" rx="4" fill="#111" stroke="rgba(255,255,255,0.1)" stroke-width="1"/>
+  <text x="124" y="172" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="11" fill="#6DB33F">Spring</text>
+  <circle cx="116" cy="168" r="3" fill="#6DB33F"/>
+
+  <!-- Struts badge -->
+  <rect x="188" y="156" width="62" height="24" rx="4" fill="#111" stroke="rgba(255,255,255,0.1)" stroke-width="1"/>
+  <text x="204" y="172" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="11" fill="#D22128">Struts</text>
+  <circle cx="196" cy="168" r="3" fill="#D22128"/>
+
+  <!-- Tools label -->
+  <text x="40" y="210" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif"
+        font-size="10" fill="#666" letter-spacing="1">TOOLS</text>
+
+  <!-- Git badge -->
+  <rect x="40" y="220" width="52" height="24" rx="4" fill="#111" stroke="rgba(255,255,255,0.1)" stroke-width="1"/>
+  <text x="56" y="236" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="11" fill="#F05032">Git</text>
+  <circle cx="48" cy="232" r="3" fill="#F05032"/>
+
+  <!-- GitHub badge -->
+  <rect x="100" y="220" width="70" height="24" rx="4" fill="#111" stroke="rgba(255,255,255,0.1)" stroke-width="1"/>
+  <text x="116" y="236" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="11" fill="#e6edf3">GitHub</text>
+  <circle cx="108" cy="232" r="3" fill="#e6edf3"/>
+
+  <!-- ── PROJECTS ── -->
+  <text x="40" y="282" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif"
+        font-size="10" font-weight="600" fill="#D97757" letter-spacing="2">PROJECTS</text>
+  <line x1="40" y1="290" x2="860" y2="290" stroke="rgba(255,255,255,0.06)" stroke-width="1"/>
+
+  <!-- Project card: tradeRecipe -->
+  <rect x="40" y="306" width="820" height="76" rx="6" fill="#0d0d0d" stroke="rgba(217,119,87,0.2)" stroke-width="1"/>
+  <rect x="40" y="306" width="3" height="76" rx="1" fill="#D97757"/>
+  <text x="60" y="328" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif"
+        font-size="13" font-weight="600" fill="#e6edf3">tradeRecipe</text>
+  <text x="60" y="348" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif"
+        font-size="11" fill="#8b949e">퀀텀 투자 전략 시뮬레이션 플랫폼. 알고리즘 기반 투자 레시피 생성 및 백테스트 검증.</text>
+
+  <!-- tags -->
+  <rect x="60" y="358" width="34" height="16" rx="3" fill="rgba(237,139,0,0.1)" stroke="rgba(237,139,0,0.3)" stroke-width="1"/>
+  <text x="67" y="370" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="9" fill="#ED8B00">Java</text>
+
+  <rect x="100" y="358" width="42" height="16" rx="3" fill="rgba(109,179,63,0.1)" stroke="rgba(109,179,63,0.3)" stroke-width="1"/>
+  <text x="108" y="370" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif" font-size="9" fill="#6DB33F">Spring</text>
+
+  <!-- arrow link indicator -->
+  <text x="830" y="348" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif"
+        font-size="14" fill="#D97757">↗</text>
+
+  <!-- bottom fade -->
+  <rect x="0" y="390" width="900" height="30" fill="url(#fade)"/>
+  <defs>
+    <linearGradient id="fade" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#000000" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#000000" stop-opacity="1"/>
+    </linearGradient>
+  </defs>
+</svg>
