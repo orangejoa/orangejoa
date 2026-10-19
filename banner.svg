@@ -23,5 +23,5 @@
   </text>
 
   <!-- bottom accent line -->
-  <line x1="360" y1="128" x2="540" y2="128" stroke="#58a6ff" stroke-width="1" stroke-opacity="0.3"/>
+  <line x1="360" y1="128" x2="540" y2="128" stroke="#D97757" stroke-width="1" stroke-opacity="0.3"/>
 </svg>

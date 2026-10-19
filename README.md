@@ -2,9 +2,9 @@
 
 <img src="./banner.svg" width="100%" alt="orangejoa banner"/>
 
-![Visitor](https://komarev.com/ghpvc/?username=orangejoa&color=58a6ff&style=flat-square&label=Profile+Views)
+![Visitor](https://komarev.com/ghpvc/?username=orangejoa&color=D97757&style=flat-square&label=Profile+Views)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=58a6ff)](https://orange-private.github.io/orangejoa.github.io/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=D97757)](https://orange-private.github.io/orangejoa.github.io/)
 [![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:orangesore@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/orangejoa)
 
@@ -34,9 +34,9 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=orangejoa&show_icons=true&theme=github_dark&hide_border=true&bg_color=000000&title_color=58a6ff&icon_color=58a6ff&card_width=250"/>
-<img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=orangejoa&theme=github-dark-blue&hide_border=true&background=000000&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff"/>
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=orangejoa&layout=compact&theme=github_dark&hide_border=true&bg_color=000000&title_color=58a6ff&card_width=250"/>
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=orangejoa&show_icons=true&theme=github_dark&hide_border=true&bg_color=000000&title_color=D97757&icon_color=D97757&card_width=250"/>
+<img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=orangejoa&theme=github-dark-blue&hide_border=true&background=000000&stroke=30363d&ring=D97757&fire=D97757&currStreakLabel=D97757"/>
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=orangejoa&layout=compact&theme=github_dark&hide_border=true&bg_color=000000&title_color=D97757&card_width=250"/>
 </div>
 
 ---
